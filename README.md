@@ -2,7 +2,7 @@
 Simple converstion from glb to stl, had to craft a conversion for meta's segment anything ai model
 
 
-A no-bs, one-job command line tool to convert `.glb` (or `.gbl`) 3D files to `.stl` format. Works when you just need it done, not perfect.  I just downloaded a glb format file from metas new segment anything tool and wanted to print the model.
+A no-bs, one-job command line tool to convert `.glb` 3D files to `.stl` format. Works when you just need it done, not perfect.  I just downloaded a glb format file from metas new segment anything tool and wanted to print the model.
 
 ## What It Is
 
