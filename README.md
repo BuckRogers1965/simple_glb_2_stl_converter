@@ -1,5 +1,5 @@
 # simple_glb_2_stl_converter  - Quick & Dirty GLB to STL Converter
-Simple converstion from glb to stl, had to craft a conversion for meta's segment anything ai model
+Simple conversion from glb to stl, had to craft a conversion for meta's segment anything ai model
 
 
 A no-bs, one-job command line tool to convert `.glb` 3D files to `.stl` format. Works when you just need it done, not perfect.  I just downloaded a glb format file from metas new segment anything tool and wanted to print the model.
@@ -119,7 +119,7 @@ Your GLB file might have chunks in unexpected order.
 
 ## Why This Exists
 
-Because sometimes you just need to convert a fucking file without:
+Because sometimes you just need to convert a file without:
 - Installing Blender
 - Learning a new UI
 - Dealing with 500 MB software packages
